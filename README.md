@@ -1,6 +1,6 @@
 # Data Analysis – Assignments & Projects
 
-This repository contains a collection of Jupyter Notebooks from my **Data Analysis** course.  **Please Check the Files with .ipynb extension to see the undelying work**  
+This repository contains a collection of Jupyter Notebooks from my **Data Analysis** course.  **Please Check the Files with .ipynb extension to see what is going on here easily**  
 The assignments cover the entire workflow of data science: from basic Python programming to data wrangling, exploratory analysis, machine learning, optimization, and external data acquisition.  
 
 ---
